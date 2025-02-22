@@ -1,24 +1,6 @@
 .calculator {
-  height: 300px;
-  width: 200px;
+  height: 375px;
+  width: 210px;
   border: 1px solid black;
   border-radius: 5px;
-}
-
-.display {
-  margin: 10px;
-  width: 172px;
-  font-size: 24px;
-}
-
-.buttonContainer {
-  display: flex;
-  justify-self: center;
-  flex-wrap: wrap;
-}
-
-.button {
-  margin: 5px 12.5px;
-  height: 40px;
-  width: 40px;
 }
